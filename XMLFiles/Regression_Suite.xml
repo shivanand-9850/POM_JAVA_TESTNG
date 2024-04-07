@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Jobcomplete">
+	<suite-files>
+		<suite-file path="./XMLFiles/Jobcomplet/TL_Job.xml"></suite-file> 
+		<suite-file path="./XMLFiles/Jobcomplet/Sorter.xml"></suite-file>
+		<suite-file path="./XMLFiles/Jobcomplet/SorterQA.xml"></suite-file>
+		<suite-file path="./XMLFiles/Jobcomplet/MT1.xml"></suite-file>
+		<suite-file path="./XMLFiles/Jobcomplet/MT2.xml"></suite-file>
+		<suite-file path="./XMLFiles/Jobcomplet/QA1.xml"></suite-file>
+		<suite-file path="./XMLFiles/Jobcomplet/QA2.xml"></suite-file>
+		<suite-file path="./XMLFiles/Jobcomplet/QC.xml"></suite-file>
+		
+	</suite-files>
+</suite>
